@@ -17,3 +17,5 @@ spec:
         name: dyskcreds
       options:
         size: "5"
+        container: "vhd"
+        readonly: "false"
